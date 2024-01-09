@@ -1,0 +1,2 @@
+# nolosha_people_indicator
+nolosha_people_indicator
